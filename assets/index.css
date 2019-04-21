@@ -1,0 +1,12 @@
+h1,
+h2,
+h3 {
+  font-family: "Lora", serif;
+  letter-spacing: 0.02em;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 48px;
+}
